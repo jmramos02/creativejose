@@ -1,0 +1,16 @@
+body{
+	font-family:'Open Sans' sans-serif;	
+}
+h1{
+	font-weight:normal;
+}
+#banner{
+	font-family:'Open Sans Condensed';
+	font-size:120px;
+	text-align:center;
+}
+#sub-banner{
+	font-family:'Open Sans Condensed';
+	font-size:40px;
+	text-align:center;
+}
